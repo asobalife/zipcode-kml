@@ -9,5 +9,3 @@ So I wrote a script that split the giant file to 32,768 separate files each name
 
 You can download the zip file, unzip it and upload the individual files to your web server (it has to be accessible from google).
 
-Have Fun!
-Tomer
