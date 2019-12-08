@@ -7,7 +7,7 @@ All I found was a 150MB file from census.gov (https://www.census.gov/geo/maps-da
 
 So I wrote a script that split the giant file to 32,768 separate files each named zip[zipcode].kml
 
-You can download the zip file, unzip it and upload the individual files to your web server (it has to be accecible from google).
+You can download the zip file, unzip it and upload the individual files to your web server (it has to be accessible from google).
 
 Have Fun!
 Tomer
